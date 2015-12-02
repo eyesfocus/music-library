@@ -1,0 +1,6 @@
+<!-- /cds -->
+<ul>
+    <li ng-repeat="cd in cdlistCtrl.cds">
+        <a ng-href="#/cds/{{cd.id}}">{{cd.artist.name}} - {{cd.title}}</a>
+    </li>
+</ul>

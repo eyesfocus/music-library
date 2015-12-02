@@ -1,0 +1,17 @@
+[
+    {
+        "artist": {
+            "id": "1",
+            "name": "Artist A"
+        },
+        "title": "Title A",
+        "id": "123"
+    }, {
+        "artist" : {
+            "id": "2",
+            "name": "Artist B"
+        },
+        "title": "Title B",
+        "id": "345"
+    }
+]

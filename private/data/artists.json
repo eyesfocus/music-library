@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "name": "Artist A",
+        "cds": [
+            {
+                "id": 123,
+                "title": "Title A.1"
+            }, {
+                "id": 321,
+                "title": "Title A.2"
+            }
+        ]
+    }, {
+        "id": "2",
+        "name": "Artist B",
+        "cds": [
+            {
+                "id": 456,
+                "title": "Title B.1"
+            }, {
+                "id": 654,
+                "title": "Title B.2"
+            }
+        ]
+    }
+]
