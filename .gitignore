@@ -1,0 +1,47 @@
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases 
+*.log
+*.sql
+
+# OSX
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+sftp-config.json
+
+# Node
+node_modules
+lib-cov
+
+*.seed
+*.dat
+*.out
+
+# SASS
+.sass-cache
+*.css-map
